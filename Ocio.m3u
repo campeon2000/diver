@@ -46,3 +46,6 @@ https://rt-esp.rttv.com/live/rtesp/playlist_4500Kb.m3u8
 
 #EXTINF:-1 , canal DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+
+#EXTINF:-1 , canal CineClub
+https://linear-192.frequency.stream/192/hls/master/playlist_1280x720.m3u8
