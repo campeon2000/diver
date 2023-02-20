@@ -1,0 +1,48 @@
+#EXTM3U
+#EXTINF:-1 , canal 2
+https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_3.m3u8?&
+
+#EXTINF:-1 , canal 5
+https://dailymotionlive.akamaized.net/sec(mj562f6n9IrWiHyCluoeFt-vOXyCE2xkklxyBu7dkcZe7gzwzK1TuAZb1RMMVwPp)/dm/3/x774s7s/s/live-3.m3u8
+
+#EXTINF:-1 , canal 9
+https://dysmuyxh5vstv.cloudfront.net/hls/live_720p30.m3u8
+
+#EXTINF:-1 , canal 9+
+https://dysmuyxh5vstv.cloudfront.net/hls/atv2.m3u8
+
+#EXTINF:-1 , canal 9 Sur
+https://atvsur.mediatiquestream.com/atv/8bcf2b35a573163055a95e18c0c35226.sdp/atv/atvsur1/chunks.m3u8
+
+#EXTINF:-1 , Will
+https://dailymotionlive.akamaized.net/sec(ekpi6JmRB5KslkTtNqtBmrRcrn7H3dOReQNeRfiJO3SUNRxxOstT97nBME-dQFr-)/dm/3/x7x4dgx/s/live-1.m3u8
+
+#EXTINF:-1 , canal 7
+https://cdnh76.iblups.com/hls/R9WtilpKKB.m3u8
+
+#EXTINF:-1 , canal BhTv
+https://5c3fb01839654.streamlock.net:1963/iptvbhtv/livebhtvtv/chunklist_w481195321.m3u8
+
+#EXTINF:-1 , canal Exito
+https://cpliv3.onliv3.com:19360/exitosatv/exitosatv.m3u8
+
+#EXTINF:-1 , canal Advent
+https://3abn-live.akamaized.net/hls/live/2010547/Latino/HQs/chunklist.m3u8
+
+#EXTINF:-1 , canal Agro
+https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
+
+#EXTINF:-1 , canal Best Music
+https://ca2.inka.net.pe/bestcablemusic/index.m3u8
+
+#EXTINF:-1 , canal Cajamarca
+https://ca2.inka.net.pe/cajamarcatv/index.m3u8
+
+#EXTINF:-1 , canal OK Tv
+https://stream.plixitv.live/oktv/oktv/chunklist_w843698531.m3u8
+
+#EXTINF:-1 , canal RT
+https://rt-esp.rttv.com/live/rtesp/playlist_4500Kb.m3u8
+
+#EXTINF:-1 , canal DW
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
